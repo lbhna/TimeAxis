@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeAxisCtrl", "TimeAxisCtrl\TimeAxisCtrl.vcxproj", "{A266466C-E1A5-4459-8252-DF92EAF1ECAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A266466C-E1A5-4459-8252-DF92EAF1ECAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A266466C-E1A5-4459-8252-DF92EAF1ECAD}.Debug|Win32.Build.0 = Debug|Win32
+		{A266466C-E1A5-4459-8252-DF92EAF1ECAD}.Release|Win32.ActiveCfg = Release|Win32
+		{A266466C-E1A5-4459-8252-DF92EAF1ECAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
